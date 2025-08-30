@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {
+      "source": "/route.kmz",
+      "headers": [
+        { "key": "Content-Type", "value": "application/vnd.google-earth.kmz" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}
